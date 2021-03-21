@@ -10,18 +10,18 @@ import "./style/index.css";
 function App() {
   return (
     <Router>
-      <Navbar />
       <div>
+        <Navbar />
         <Switch>
           <Route exact path="/">
-            <Redirect to="/react-portfolio" />
+            <Redirect to="/reactpf" />
           </Route>
-          <Route exact path="/react-portfolio" component={Home}></Route>
+          <Route exact path="/reactpf" component={Home}></Route>
           <Route exact path="/contact" component={Contact}></Route>
           <Route exact path="/portfolio" component={Portfolio}></Route>
         </Switch>
+        <Footer />
       </div>
-      <Footer />
     </Router>
   );
 }
