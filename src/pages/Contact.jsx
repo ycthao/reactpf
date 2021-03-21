@@ -1,9 +1,6 @@
 import React from "react";
-import Navbar from "../components/Navbar/navbar";
-import ContactPage from "../components/ContactPage/contactPage";
-import Footer from "../components/Footer/footer";
+import ContactPage from "../components/ContactPage/contactpage";
 import '../style/index.css';
-
 
 const Contact = () => {
     return (

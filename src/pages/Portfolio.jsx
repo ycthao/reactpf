@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import PortfolioCard from "../components/PortfolioCard/portfolioCard";
 import Wrapper from "../components/Wrapper/wrapper"
 import plists from "../plist.json";
-import '../style/style.css';
+import '../style/index.css';
 
 class Portfolio extends Component {
   // Setting this.state.plists to the plists json array ey ey
