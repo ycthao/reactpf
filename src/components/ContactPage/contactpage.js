@@ -1,5 +1,5 @@
 import React from "react";
-import "../../style/style.css";
+import "../../style/index.css";
 import "bootstrap/dist/css/bootstrap.min.css";
 
 function ContactPage() {
