@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Obital",
+    "image": "./image/orbit.png",
+    "description": "An application where user can find, create, or nivate clubs groups or events taking place in a digital space.",
+    "technology": "HTML, CSS, JavaScript, Handlebars, Nodejs, MySQL",
+    "github": "https://github.com/ycthao/orbit",
+    "deployed": "https://wereinorbit.herokuapp.com"
+  },
+  {
+    "id": 2,
+    "name": "Decisive Kitchen",
+    "image": "./image/DecisiveKitchen.png",
+    "description": "A simple recipe finder that will find recipes with nutritional facts based on the user's search criteria.",
+    "technology": "HTML, CSS, JavaScript, The Meal DB, Edamam Nutrition API, Canva.",
+    "github": "https://github.com/ycthao/DecisiveKitchen",
+    "deployed": "https://calebkw91.github.io/DecisiveKitchen"
+  },
+  {
+    "id": 3,
+    "name": "Team Generator",
+    "image": "./image/teamgenerator.gif",
+    "description": "This app is to create a team webpage with all the team member information such as job title, name, email, id. Depending on what the job title is, a different information will show up, such as for Engineer a GitHub link will show, while Intern will show school and manager the office number.",
+    "technology": "HTML, CSS, JavaScript",
+    "github": "https://github.com/ycthao/TeamInfoGenerator",
+    "deployed": ""
+  },
+  {
+    "id": 4,
+    "name": "Password Generator",
+    "image": "./image/PasswordGenerator.png",
+    "description": "An application that an employee can use to generate a random password based on criteria they’ve selected by modifying starter code. This app will run in the browser, and will feature dynamically updated HTML and CSS powered by JavaScript code.",
+    "technology": "HTML, CSS, JavaScript",
+    "github": "https://ycthao.github.io/passwordgenerator",
+    "deployed": "https://github.com/ycthao/passwordgenerator"
+  },
+  {
+    "id": 5,
+    "name": "Burger",
+    "image": "./image/burgerusage.gif",
+    "description": "Burger app is a friendly restaurant app that lets user input names of burgers they'd like to eat. Once the burger name is submited, the app will display the burger on the left side of the page under 'waiting to be devoured' with a 'Devour it' button next to it. Once the 'Devour it' buttom is pressed, the burger name will move to the right side of the page. The app will store every burger in a database.",
+    "technology": "HTML, CSS, JavaScript, Handlebars, Nodejs, MySQL",
+    "github": "https://github.com/ycthao/burger",
+    "deployed": "https://bcs-hw-burger.herokuapp.com"
+  },
+  {
+    "id": 6,
+    "name": "Workout Tracker",
+    "image": "./image/workouttrackerusage.gif",
+    "description": "The purpose of this app is to create and track daily workouts. The app will be able to log multiple exercises in a workout on a given day. It will track the name, type, weight, sets, reps and duration of exercises.",
+    "technology": "HTML, CSS, JavaScript, Nodejs, MongoDB",
+    "github": "https://github.com/ycthao/WorkoutTracker",
+    "deployed": "https://bchw-workouttracker.herokuapp.com"
+  }
+]
