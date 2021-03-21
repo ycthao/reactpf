@@ -1,6 +1,7 @@
 import React from "react";
 import "bootstrap/dist/css/bootstrap.min.css";
 import { Navbar, Nav } from "react-bootstrap";
+import { Link } from 'react-router-dom'
 import "../../style/index.css";
 
 function NavbarTemplate() {
@@ -12,6 +13,9 @@ function NavbarTemplate() {
         <Nav.Link to="/portfolio">Portfolio</Nav.Link>
       </Nav>
     </Navbar>
+
+
+
   );
 }
 
